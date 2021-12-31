@@ -1,0 +1,40 @@
+# Local list
+
+# Google
+0.0.0.0 www.googleoptimize.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 voledevice-pa.googleapis.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 gstaticadssl.l.google.com
+
+# Facebook
+0.0.0.0 connect.facebook.net
+
+# Xiaomi Mi TV
+0.0.0.0 in.tv.global.mi.com
+0.0.0.0 mitv.tracking.india.miui.com
+0.0.0.0 sys.tv.india.xiaomi.com
+
+# Router
+0.0.0.0 www.taobao.com
+
+# Oppo Vivo
+0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 conff.dc.oppomobile.com
+
+# Other
+0.0.0.0 consent.cookiebot.com
+0.0.0.0 https://app-measurement.com/sdk-exp
+0.0.0.0 app-measurement.com/sdk-exp
+0.0.0.0 www.telugucinema.com
+0.0.0.0 m.telugucinema.com
+0.0.0.0 digianalytics.airtel.in
+0.0.0.0 bixby-client.aibixby.com
+0.0.0.0 logs.juspay.in
+0.0.0.0 batchlogging4-noneu.truecaller.com
+0.0.0.0 in.wzrkt.com

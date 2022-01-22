@@ -11,9 +11,24 @@
 0.0.0.0 mtalk.google.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 userlocation.googleapis.com
 
 # Facebook
 0.0.0.0 connect.facebook.net
+
+# Amazon
+0.0.0.0 unagi-na.amazon.com
+0.0.0.0 msh.amazon.com
+0.0.0.0 atv‐ext.amazon.com
+0.0.0.0 xn--atvext-dg0c.amazon.com
+0.0.0.0 dp‐gw‐na.amazon.com
+0.0.0.0 xn--dpgwna-cg0cc.amazon.com
+0.0.0.0 ktpx.amazon.com
+0.0.0.0 arcus‐uswest.amazon.com
+0.0.0.0 xn--arcususwest-pf3f.amazon.com
+0.0.0.0 ipv6.unagi-na.amazon.com
+0.0.0.0 fls-fe.amazon.com
+0.0.0.0 fls-na.amazon.com
 
 # Xiaomi Mi TV
 0.0.0.0 in.tv.global.mi.com
@@ -38,3 +53,8 @@
 0.0.0.0 logs.juspay.in
 0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 in.wzrkt.com
+0.0.0.0 app-12.engage.jio.com
+0.0.0.0 74.go.qureka.com
+0.0.0.0 ads.rwadx.com
+0.0.0.0 analytics.intelliscapesolutions.com
+0.0.0.0 app.botsdekho.com

@@ -8,7 +8,6 @@
 0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 voledevice-pa.googleapis.com
 0.0.0.0 people-pa.googleapis.com
-0.0.0.0 mtalk.google.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 userlocation.googleapis.com

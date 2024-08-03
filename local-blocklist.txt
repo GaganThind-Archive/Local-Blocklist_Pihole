@@ -1,8 +1,8 @@
 # Local list
 
 # Google
-0.0.0.0 www.googleoptimize.com
-0.0.0.0 www.googletagmanager.com
+0.0.0.0 googleoptimize.com
+0.0.0.0 googletagmanager.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 androidtvchannels-pa.googleapis.com
 0.0.0.0 playatoms-pa.googleapis.com
@@ -11,6 +11,10 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 userlocation.googleapis.com
+0.0.0.0 instabug.com
+0.0.0.0 app-measurement.com
+0.0.0.0 doubleclick.net
+0.0.0.0 crashlytics.com
 
 # Facebook
 0.0.0.0 connect.facebook.net
@@ -25,6 +29,7 @@
 0.0.0.0 ipv6.unagi-na.amazon.com
 0.0.0.0 fls-fe.amazon.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 amazon-adsystem.com
 
 # Xiaomi Mi TV
 0.0.0.0 in.tv.global.mi.com
@@ -32,25 +37,41 @@
 0.0.0.0 sys.tv.india.xiaomi.com
 
 # Router
-0.0.0.0 www.taobao.com
+0.0.0.0 taobao.com
 
 # Oppo Vivo
 0.0.0.0 stat-in.dc.oppomobile.com
 0.0.0.0 conff.dc.oppomobile.com
+0.0.0.0 coloros.com
+0.0.0.0 heytapmobi.com
+0.0.0.0 heytapmobile.com
+0.0.0.0 heytapdl.com
+0.0.0.0 allawntech.com
+0.0.0.0 allawnos.com
+0.0.0.0 oppomobile.com
+
+# Airtel
+0.0.0.0 adtech.wynk.in
+0.0.0.0 imgads.wynk.in
+0.0.0.0 adconfig.wynk.in
+0.0.0.0 digianalytics.airtel.in
+
+# Jio
+0.0.0.0 adtracker.jiocinema.com
 
 # Other
 0.0.0.0 consent.cookiebot.com
-0.0.0.0 https://app-measurement.com/sdk-exp
-0.0.0.0 app-measurement.com/sdk-exp
-0.0.0.0 www.telugucinema.com
+0.0.0.0 telugucinema.com
 0.0.0.0 m.telugucinema.com
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 bixby-client.aibixby.com
 0.0.0.0 logs.juspay.in
 0.0.0.0 batchlogging4-noneu.truecaller.com
-0.0.0.0 in.wzrkt.com
-0.0.0.0 app-12.engage.jio.com
+0.0.0.0 wzrkt.com
+0.0.0.0 engage.jio.com
 0.0.0.0 74.go.qureka.com
 0.0.0.0 ads.rwadx.com
 0.0.0.0 analytics.intelliscapesolutions.com
 0.0.0.0 app.botsdekho.com
+0.0.0.0 netcoresmartech.com
+0.0.0.0 branch.io
+0.0.0.0 blitzllama.com

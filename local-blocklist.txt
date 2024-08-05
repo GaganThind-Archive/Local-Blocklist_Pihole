@@ -49,6 +49,11 @@
 0.0.0.0 allawntech.com
 0.0.0.0 allawnos.com
 0.0.0.0 oppomobile.com
+0.0.0.0 conn-service-in-01.allawnos.com
+0.0.0.0 conn-service-in-02.allawnos.com
+0.0.0.0 conn-service-in-03.allawnos.com
+0.0.0.0 conn-service-in-04.allawnos.com
+0.0.0.0 conn-service-in-05.allawnos.com
 
 # Airtel
 0.0.0.0 adtech.wynk.in
